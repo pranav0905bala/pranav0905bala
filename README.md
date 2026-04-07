@@ -51,7 +51,9 @@ I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializi
 
 ### 🛠 Technical Skills
 
-**Core Skills**: Electrical Testing, Hardware Validation, System Integration, Embedded Systems, Electromechanical Systems, Troubleshooting, Root Cause Analysis  
+**Core Skills**: Electrical Testing, Hardware Validation, Design Verification, Test Plan Development, Verification & Validation Testing, Electromechanical Systems Design, Embedded Systems, Troubleshooting & Debugging, Root Cause Analysis 
+
+**Research**: Experiment Design, Technical Documentation, Technical Presentation, Literature Review
 
 **Programming**: Python, MATLAB, C  
 
@@ -80,11 +82,12 @@ I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializi
 - 🤖 Autonomous robotics systems and control  
 - ⚙️ Hardware system integration and validation  
 - 🔌 Embedded system optimization  
-- 🧪 Advanced debugging and test methodologies  
+- 🧪 Advanced debugging and test methodologies
+- Applied Robotics
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: your-email@email.com  
-- 🔗 LinkedIn: YOUR_LINK  
+- 📧 Email: pranav0905bala@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/pranavbalasundaram 
