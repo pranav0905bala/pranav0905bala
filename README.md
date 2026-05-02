@@ -18,7 +18,10 @@ I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializi
 
 - 🤖 Developed real-time control algorithms for a 2-DOF robotic wrist exoskeleton
 - 🧪 Designed human-robot interaction protocol  to quantify muscle synchronization patterns
-- 🔍 Developed a signal processing pipeline in MATLAB to compute **Intermuscular Coherence** from multi-channel EMG data  
+- 🔍 Developed a signal processing pipeline in MATLAB to compute **Intermuscular Coherence** from multi-channel EMG data
+
+My work focused on developing robot-assisted experimental platforms, combining real-time control, EMG signal processing, and analysis to study neuromuscular coordination. Through my thesis, I engineered a wrist exoskeleton-based system with integrated data acquisition, GUI control, and signal analysis pipelines aimed at advancing quantitative neurorehabilitation assessment.
+    
 
 ---
 
